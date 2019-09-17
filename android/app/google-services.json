@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049738349982",
+    "firebase_url": "https://sabel-object-detection.firebaseio.com",
+    "project_id": "sabel-object-detection",
+    "storage_bucket": "sabel-object-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049738349982:android:c3f2b813805f3e03e6da8f",
+        "android_client_info": {
+          "package_name": "com.sabel.objectdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049738349982-eij9n9q3jh3qmmqimm3e3n4ubtdnj60d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdreOm5Y9GQWPfC7vOK4WDq74mTypHPBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049738349982-eij9n9q3jh3qmmqimm3e3n4ubtdnj60d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
